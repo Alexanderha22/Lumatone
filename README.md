@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Alex Halloran
+Alexanderha22@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
@@ -10,40 +10,16 @@ IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+This project aims to recreate the lumatone midi keyboard. This keyboard will have 280 keys each with a corresponding linear hall effect sensor to measure the velocity of each keypress. The keypress data will be processed using an Arduino nano and the data will be sent using midi over USB. 
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
-
-## Tasks
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Design Decisions
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Design Misc
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Steps for Documenting Your Design Process
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+This project will teach 3d modeling and printing techniques with a focus on splitting a large model into smaller, printable parts. This project will also use nearly 300 hall effect sensors to measure each keypress. These signals will have to be consolidated using analog multiplexers and multi-channel A2D converters which will improve circuit design. 
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Timeline
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Nearly all of the components for this project have already been bought including the 3d-printer filament. The remaining cost of this project comes from the post-processing of the parts using sandpaper and the soldering materials to connect the components. This should be at most $20.
 
 ## Useful Links
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Log
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Lumatone official website - https://www.lumatone.io/
